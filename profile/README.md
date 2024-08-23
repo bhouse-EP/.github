@@ -9,7 +9,7 @@ Elastic Path powers mission-critical digital commerce for the world’s leading 
 
 - Homepage: [https://www.elasticpath.com/](https://www.elasticpath.com?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile)
 - Documentation: [https://documentation.elasticpath.com/](https://documentation.elasticpath.com/?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile)
-- Learning Center: [https://learn.elasticpath.com/](https://learn.elasticpath.com/)
+- Learning Center: [https://elasticpath.com/learning-center](https://www.elasticpath.com/learning-center)
 - Support: [https://support.elasticpath.com/](https://support.elasticpath.com/)
 - Composable Commerce Hub: [https://www.elasticpath.com/hub](https://www.elasticpath.com/hub?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile)
 - Demo: [https://www.elasticpath.com/ecommerce-demo-library](https://www.elasticpath.com/ecommerce-demo-library?utm_source=github&utm_medium=profile&utm_campaign=22q4-standard-prospect-all-global-github-profile)
